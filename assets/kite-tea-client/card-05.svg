@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">功能一：任务与选题</title>
+  <desc id="desc">任务录入与爆款选题能力说明。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9efdf"/>
+      <stop offset="0.58" stop-color="#e8d6ba"/>
+      <stop offset="1" stop-color="#b1bb93"/>
+    </linearGradient>
+    <style>
+      .sans{font-family:"Noto Sans SC","Microsoft YaHei",sans-serif}
+      .serif{font-family:"Noto Serif SC","Songti SC",serif}
+      .ink{fill:#29231a}.muted{fill:#6d604d}.accent{fill:#ba6820}.dark{fill:#312b22}.cream{fill:#fff8ec}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1516" height="816" rx="34" fill="none" stroke="#fff8ec" stroke-width="2"/>
+  <text x="88" y="94" class="sans accent" font-size="24" font-weight="900" letter-spacing="5">05 / FUNCTION DETAIL A</text>
+  <text x="88" y="176" class="serif ink" font-size="70" font-weight="760">功能一：把任务录清楚，把题选对</text>
+  <g class="sans">
+    <rect x="88" y="258" width="676" height="498" rx="30" fill="#fff8ec" fill-opacity="0.82"/>
+    <rect x="836" y="258" width="676" height="498" rx="30" fill="#312b22"/>
+    <text x="132" y="326" class="accent" font-size="28" font-weight="900">任务录入</text>
+    <text x="132" y="382" class="ink" font-size="30" font-weight="900">总部每次只需要补齐 5 类信息</text>
+    <text x="132" y="444" class="muted" font-size="26">1. 区域：哪个市场、哪类门店、哪批账号</text>
+    <text x="132" y="494" class="muted" font-size="26">2. 平台：视频号、抖音、小红书、公众号</text>
+    <text x="132" y="544" class="muted" font-size="26">3. 产品主题：新品、活动、门店、品类、节令</text>
+    <text x="132" y="594" class="muted" font-size="26">4. 内容目标：曝光、互动、引流、私域承接</text>
+    <text x="132" y="644" class="muted" font-size="26">5. 边界条件：品牌红线、平台红线、发布时间</text>
+    <text x="880" y="326" class="accent" font-size="28" font-weight="900">爆款选题</text>
+    <text x="880" y="382" class="cream" font-size="30" font-weight="900">系统输出的不是泛泛题目，而是可执行题单</text>
+    <text x="880" y="444" class="cream" font-size="26">1. 先做视频号、抖音优先的高潜视频题</text>
+    <text x="880" y="494" class="cream" font-size="26">2. 同步给出小红书图文延展方向</text>
+    <text x="880" y="544" class="cream" font-size="26">3. 给出题目角度、钩子、切入点、表达方式</text>
+    <text x="880" y="594" class="cream" font-size="26">4. 明确适合哪些区域、哪些账号去发</text>
+    <text x="880" y="644" class="cream" font-size="26">5. 不合适的题，提前筛掉，不进入生产</text>
+  </g>
+</svg>

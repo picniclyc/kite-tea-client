@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">当前业务问题</title>
+  <desc id="desc">茶叶客户当前业务问题拆解。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9efdf"/>
+      <stop offset="0.58" stop-color="#ead9be"/>
+      <stop offset="1" stop-color="#b7c097"/>
+    </linearGradient>
+    <style>
+      .sans{font-family:"Noto Sans SC","Microsoft YaHei",sans-serif}
+      .serif{font-family:"Noto Serif SC","Songti SC",serif}
+      .ink{fill:#29231a}.muted{fill:#6d604d}.accent{fill:#ba6820}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1516" height="816" rx="34" fill="none" stroke="#fff8ec" stroke-width="2"/>
+  <text x="88" y="94" class="sans accent" font-size="24" font-weight="900" letter-spacing="5">02 / BUSINESS GAP</text>
+  <text x="88" y="166" class="serif ink" font-size="60" font-weight="760">
+    <tspan x="88" dy="0">客户真正缺的不是内容，</tspan>
+    <tspan x="88" dy="64">是内容能力的规模化复制</tspan>
+  </text>
+  <text x="88" y="274" class="sans muted" font-size="28" font-weight="700">
+    <tspan x="88" dy="0">问题不在“会不会做内容”，</tspan>
+    <tspan x="88" dy="38">而在“总部是否拥有稳定、可控、可复用的内容增长链路”。</tspan>
+  </text>
+  <g class="sans">
+    <rect x="88" y="344" width="684" height="188" rx="28" fill="#fff8ec" fill-opacity="0.84"/>
+    <rect x="828" y="344" width="684" height="188" rx="28" fill="#fff8ec" fill-opacity="0.84"/>
+    <rect x="88" y="572" width="684" height="188" rx="28" fill="#fff8ec" fill-opacity="0.84"/>
+    <rect x="828" y="572" width="684" height="188" rx="28" fill="#fff8ec" fill-opacity="0.84"/>
+    <text x="132" y="396" class="accent" font-size="24" font-weight="900">01</text>
+    <text x="132" y="440" class="ink" font-size="34" font-weight="900">区域化内容生产不稳定</text>
+    <text x="132" y="494" class="muted" font-size="24">
+      <tspan x="132" dy="0">不同区域的语境、热点和表达不同，</tspan>
+      <tspan x="132" dy="32">内容很难长期稳定地产出。</tspan>
+    </text>
+    <text x="872" y="396" class="accent" font-size="24" font-weight="900">02</text>
+    <text x="872" y="440" class="ink" font-size="34" font-weight="900">AI 内容风险没有前置控制</text>
+    <text x="872" y="494" class="muted" font-size="24">
+      <tspan x="872" dy="0">如果没有审核规则，平台风险和品牌风险</tspan>
+      <tspan x="872" dy="32">会随着规模一起放大。</tspan>
+    </text>
+    <text x="132" y="624" class="accent" font-size="24" font-weight="900">03</text>
+    <text x="132" y="668" class="ink" font-size="34" font-weight="900">经销商不适合承担重运营动作</text>
+    <text x="132" y="722" class="muted" font-size="24">
+      <tspan x="132" dy="0">让经销商自己选题、写稿、发内容，</tspan>
+      <tspan x="132" dy="32">这套模式很难真正复制。</tspan>
+    </text>
+    <text x="872" y="624" class="accent" font-size="24" font-weight="900">04</text>
+    <text x="872" y="668" class="ink" font-size="34" font-weight="900">结果没有结构化回收</text>
+    <text x="872" y="722" class="muted" font-size="24">
+      <tspan x="872" dy="0">没有任务台账、发布记录和复盘机制，</tspan>
+      <tspan x="872" dy="32">经验无法沉淀成组织资产。</tspan>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">下一步推进建议</title>
+  <desc id="desc">项目下一步推进建议。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8efdf"/>
+      <stop offset="0.58" stop-color="#e7d5b8"/>
+      <stop offset="1" stop-color="#b0b991"/>
+    </linearGradient>
+    <style>
+      .sans{font-family:"Noto Sans SC","Microsoft YaHei",sans-serif}
+      .serif{font-family:"Noto Serif SC","Songti SC",serif}
+      .ink{fill:#29231a}.muted{fill:#6d604d}.accent{fill:#ba6820}.dark{fill:#312b22}.cream{fill:#fff8ec}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1516" height="816" rx="34" fill="none" stroke="#fff8ec" stroke-width="2"/>
+  <text x="88" y="94" class="sans accent" font-size="24" font-weight="900" letter-spacing="5">15 / NEXT STEP</text>
+  <text x="88" y="176" class="serif ink" font-size="72" font-weight="760">下一步怎么推进</text>
+  <text x="88" y="242" class="sans muted" font-size="32" font-weight="700">方向认可后，不建议继续泛讨论，建议直接进入首期合作定义。</text>
+  <g class="sans">
+    <rect x="88" y="304" width="1424" height="98" rx="24" fill="#312b22"/>
+    <rect x="88" y="432" width="1424" height="98" rx="24" fill="#fff8ec" fill-opacity="0.9"/>
+    <rect x="88" y="560" width="1424" height="98" rx="24" fill="#fff8ec" fill-opacity="0.84"/>
+    <rect x="88" y="688" width="1424" height="98" rx="24" fill="#fff8ec" fill-opacity="0.78"/>
+    <text x="132" y="364" class="cream" font-size="32" font-weight="900">1. 确认合作方式：先确认是设计包、试点包，还是完整共建包</text>
+    <text x="132" y="492" class="ink" font-size="32" font-weight="900">2. 确认试点区域与账号样本：锁定首批区域、账号和历史内容样本</text>
+    <text x="132" y="620" class="ink" font-size="32" font-weight="900">3. 确认平台规则与品牌红线：为后续审核和内容生产建立边界</text>
+    <text x="132" y="748" class="ink" font-size="32" font-weight="900">4. 启动项目：进入正式排期，先把 7 天方案期和 4 周试点期跑起来</text>
+  </g>
+  <rect x="88" y="810" width="1424" height="40" rx="20" fill="#312b22"/>
+  <text x="800" y="838" text-anchor="middle" class="sans cream" font-size="23" font-weight="900">先把最关键的主链路做对；首期跑通后，再进入规模化升级。</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">怎么报价</title>
+  <desc id="desc">清晰报价与边界说明。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9efde"/>
+      <stop offset="0.58" stop-color="#e8d6b7"/>
+      <stop offset="1" stop-color="#b1ba93"/>
+    </linearGradient>
+    <style>
+      .sans{font-family:"Noto Sans SC","Microsoft YaHei",sans-serif}
+      .serif{font-family:"Noto Serif SC","Songti SC",serif}
+      .ink{fill:#29231a}.muted{fill:#6d604d}.accent{fill:#ba6820}.dark{fill:#312b22}.cream{fill:#fff8ec}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1516" height="816" rx="34" fill="none" stroke="#fff8ec" stroke-width="2"/>
+  <text x="88" y="94" class="sans accent" font-size="24" font-weight="900" letter-spacing="5">14 / PRICING</text>
+  <text x="88" y="176" class="serif ink" font-size="72" font-weight="760">报价按阶段，不报模糊区间</text>
+  <g class="sans">
+    <rect x="88" y="260" width="1424" height="126" rx="26" fill="#fff8ec" fill-opacity="0.9"/>
+    <text x="132" y="314" class="accent" font-size="24" font-weight="900">阶段 A｜方案与试点设计</text>
+    <text x="1288" y="320" text-anchor="end" class="serif accent" font-size="48" font-weight="850">¥39,800</text>
+    <text x="132" y="360" class="muted" font-size="24">包含：方案设计、试点路线、客户沟通稿、表结构规格、实施边界。 不含：实际建表、试点执行、API 开发。</text>
+    <rect x="88" y="424" width="1424" height="126" rx="26" fill="#fff8ec" fill-opacity="0.84"/>
+    <text x="132" y="478" class="accent" font-size="24" font-weight="900">阶段 B｜国内试点落地 + 规模化共建</text>
+    <text x="1288" y="484" text-anchor="end" class="serif accent" font-size="48" font-weight="850">¥118,000</text>
+    <text x="132" y="524" class="muted" font-size="24">包含：阶段 A 全部内容 + 4 周试点推进 + 6-8 周规模化支持 + 多区域扩展 + 样本池与反馈机制升级。</text>
+    <rect x="88" y="588" width="1424" height="126" rx="26" fill="#312b22"/>
+    <text x="132" y="632" class="accent" font-size="24" font-weight="900">阶段 C｜维护与更新</text>
+    <text x="1288" y="638" text-anchor="end" class="serif accent" font-size="40" font-weight="850">¥4,000/月</text>
+    <text x="1288" y="684" text-anchor="end" class="serif accent" font-size="32" font-weight="850">或 ¥30,000/年</text>
+    <text x="132" y="694" class="cream" font-size="24">说明：上线后赠送 1 个月免费 bug 维护；后续进入按月维护或年度更新服务。</text>
+    <rect x="88" y="752" width="1424" height="92" rx="24" fill="#fff8ec" fill-opacity="0.9"/>
+    <text x="132" y="808" class="sans ink" font-size="27" font-weight="900">付款建议：A 100% 预付｜B 50% + 30% + 20%｜C 按月或按年续签</text>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">如何排期与交付</title>
+  <desc id="desc">清晰说明阶段、工作内容和交付物。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9efde"/>
+      <stop offset="0.58" stop-color="#e8d6ba"/>
+      <stop offset="1" stop-color="#b2bc95"/>
+    </linearGradient>
+    <style>
+      .sans{font-family:"Noto Sans SC","Microsoft YaHei",sans-serif}
+      .serif{font-family:"Noto Serif SC","Songti SC",serif}
+      .ink{fill:#29231a}.muted{fill:#6d604d}.accent{fill:#ba6820}.dark{fill:#312b22}.cream{fill:#fff8ec}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1516" height="816" rx="34" fill="none" stroke="#fff8ec" stroke-width="2"/>
+  <text x="88" y="94" class="sans accent" font-size="24" font-weight="900" letter-spacing="5">13 / SCHEDULE &amp; DELIVERABLES</text>
+  <text x="88" y="164" class="serif ink" font-size="56" font-weight="760">
+    <tspan x="88" dy="0">排期要写清两件事：</tspan>
+    <tspan x="88" dy="60">每阶段做什么，每阶段交什么</tspan>
+  </text>
+  <g class="sans">
+    <rect x="88" y="246" width="1424" height="112" rx="24" fill="#312b22"/>
+    <text x="132" y="292" class="accent" font-size="22" font-weight="900">阶段 1｜7 个工作日</text>
+    <text x="132" y="330" class="cream" font-size="24" font-weight="900">做什么：启动会、业务梳理、试点范围确认、规则边界确认、方案与表结构定稿</text>
+    <text x="132" y="360" class="cream" font-size="20">交什么：项目 Brief、方案稿、试点路线、表结构规格、客户沟通稿</text>
+    <rect x="88" y="392" width="1424" height="112" rx="24" fill="#fff8ec" fill-opacity="0.9"/>
+    <text x="132" y="438" class="accent" font-size="22" font-weight="900">阶段 2｜4 周</text>
+    <text x="132" y="476" class="ink" font-size="24" font-weight="900">做什么：搭试点底座，跑 2 轮内容任务，完成内容审核、总部代发和结果回收</text>
+    <text x="132" y="506" class="muted" font-size="20">交什么：试点底座、首批任务结果、两轮运行记录、试点复盘报告</text>
+    <rect x="88" y="538" width="1424" height="112" rx="24" fill="#fff8ec" fill-opacity="0.84"/>
+    <text x="132" y="584" class="accent" font-size="22" font-weight="900">阶段 3｜6-8 周</text>
+    <text x="132" y="622" class="ink" font-size="24" font-weight="900">做什么：扩区域、扩任务轮次、优化选题反馈逻辑、建立内容样本池和协同机制</text>
+    <text x="132" y="652" class="muted" font-size="20">交什么：规模化运行方案、升级后的内容规则、样本池与阶段复盘</text>
+    <rect x="88" y="684" width="1424" height="112" rx="24" fill="#fff8ec" fill-opacity="0.78"/>
+    <text x="132" y="730" class="sans ink" font-size="24" font-weight="900">阶段 4｜按范围单独确认：是否进入矩阵协同、经销商协同和跨境场景，将直接决定排期长度。</text>
+  </g>
+</svg>

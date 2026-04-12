@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">完整版本路线</title>
+  <desc id="desc">Version 2 到 Version 5 路线图。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9efdf"/>
+      <stop offset="0.58" stop-color="#e7d5b8"/>
+      <stop offset="1" stop-color="#b1ba94"/>
+    </linearGradient>
+    <style>
+      .sans{font-family:"Noto Sans SC","Microsoft YaHei",sans-serif}
+      .serif{font-family:"Noto Serif SC","Songti SC",serif}
+      .ink{fill:#29231a}.muted{fill:#6d604d}.accent{fill:#ba6820}.dark{fill:#312b22}.cream{fill:#fff8ec}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1516" height="816" rx="34" fill="none" stroke="#fff8ec" stroke-width="2"/>
+  <text x="88" y="94" class="sans accent" font-size="24" font-weight="900" letter-spacing="5">12 / ROADMAP</text>
+  <text x="88" y="176" class="serif ink" font-size="72" font-weight="760">完整版本路线：先试点，再规模化，再协同扩展</text>
+  <line x1="160" y1="286" x2="160" y2="736" stroke="#ba6820" stroke-width="6" stroke-linecap="round"/>
+  <g class="sans">
+    <circle cx="160" cy="334" r="18" fill="#ba6820"/>
+    <circle cx="160" cy="458" r="18" fill="#ba6820"/>
+    <circle cx="160" cy="582" r="18" fill="#ba6820"/>
+    <circle cx="160" cy="706" r="18" fill="#ba6820"/>
+    <rect x="220" y="282" width="1292" height="92" rx="24" fill="#312b22"/>
+    <rect x="220" y="406" width="1292" height="92" rx="24" fill="#fff8ec" fill-opacity="0.88"/>
+    <rect x="220" y="530" width="1292" height="92" rx="24" fill="#fff8ec" fill-opacity="0.82"/>
+    <rect x="220" y="654" width="1292" height="92" rx="24" fill="#fff8ec" fill-opacity="0.76"/>
+    <text x="264" y="340" class="cream" font-size="32" font-weight="900">Version 2：国内规模化版｜扩区域、扩任务频次、建内容样本池、建反馈规则</text>
+    <text x="264" y="464" class="ink" font-size="32" font-weight="900">Version 3：矩阵协同版｜管区域账号矩阵、发布节奏、多区域内容协同</text>
+    <text x="264" y="588" class="ink" font-size="32" font-weight="900">Version 4：经销商协同版｜总部统一下发内容资产，收回执行反馈</text>
+    <text x="264" y="712" class="ink" font-size="32" font-weight="900">Version 5：跨境延展版｜海外任务输入、平台适配、内容延展与结果回收</text>
+  </g>
+</svg>

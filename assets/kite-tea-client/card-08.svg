@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">功能四：发布与复盘</title>
+  <desc id="desc">发布管理与结果复盘能力说明。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9efde"/>
+      <stop offset="0.58" stop-color="#e9d5b5"/>
+      <stop offset="1" stop-color="#acb58d"/>
+    </linearGradient>
+    <style>
+      .sans{font-family:"Noto Sans SC","Microsoft YaHei",sans-serif}
+      .serif{font-family:"Noto Serif SC","Songti SC",serif}
+      .ink{fill:#29231a}.muted{fill:#6d604d}.accent{fill:#ba6820}.dark{fill:#312b22}.cream{fill:#fff8ec}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1516" height="816" rx="34" fill="none" stroke="#fff8ec" stroke-width="2"/>
+  <text x="88" y="94" class="sans accent" font-size="24" font-weight="900" letter-spacing="5">08 / FUNCTION DETAIL D</text>
+  <text x="88" y="176" class="serif ink" font-size="70" font-weight="760">功能四：把发布管起来，把结果收回来</text>
+  <g class="sans">
+    <rect x="88" y="258" width="676" height="498" rx="30" fill="#312b22"/>
+    <rect x="836" y="258" width="676" height="498" rx="30" fill="#fff8ec" fill-opacity="0.82"/>
+    <text x="132" y="326" class="accent" font-size="28" font-weight="900">总部代发管理</text>
+    <text x="132" y="382" class="cream" font-size="30" font-weight="900">发布环节从“散”变成“可控”</text>
+    <text x="132" y="444" class="cream" font-size="26">1. 哪个区域账号发</text>
+    <text x="132" y="494" class="cream" font-size="26">2. 什么时候发</text>
+    <text x="132" y="544" class="cream" font-size="26">3. 由谁执行</text>
+    <text x="132" y="594" class="cream" font-size="26">4. 用哪台手机、哪套设备发</text>
+    <text x="132" y="644" class="cream" font-size="26">5. 当前状态是待发、已发还是异常</text>
+    <text x="880" y="326" class="accent" font-size="28" font-weight="900">结果复盘</text>
+    <text x="880" y="382" class="ink" font-size="30" font-weight="900">不是只看发没发，而是看结果能不能反哺下一轮</text>
+    <text x="880" y="444" class="muted" font-size="26">1. 回收曝光、互动、收藏、转发等表现数据</text>
+    <text x="880" y="494" class="muted" font-size="26">2. 回收私信、线索、门店咨询等业务信号</text>
+    <text x="880" y="544" class="muted" font-size="26">3. 判断什么题有效，什么题无效</text>
+    <text x="880" y="594" class="muted" font-size="26">4. 沉淀高表现内容样本</text>
+    <text x="880" y="644" class="muted" font-size="26">5. 指导下一轮继续选什么、怎么改</text>
+  </g>
+</svg>
