@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[19332,["/kite-tea-client/_next/static/chunks/0fsi8lw5utejl.js","/kite-tea-client/_next/static/chunks/0d3tkj33oycf2.js","/kite-tea-client/_next/static/chunks/0e3r2a0hrb2-u.js"],"WukongHomepage"]
+3:I[97367,["/kite-tea-client/_next/static/chunks/0fsi8lw5utejl.js","/kite-tea-client/_next/static/chunks/0d3tkj33oycf2.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/kite-tea-client/_next/static/chunks/0e3r2a0hrb2-u.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4c1n_khRgJf72-mUOgd0x"}
+5:null

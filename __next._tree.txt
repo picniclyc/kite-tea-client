@@ -1,0 +1,3 @@
+:HL["/kite-tea-client/_next/static/chunks/0fcz8j05mlmwg.css","style"]
+:HL["/kite-tea-client/_next/static/media/source_han_serif_cn_bold_2_subset-s.p.0ra4s80tbkw4f.woff","font",{"crossOrigin":"","type":"font/woff"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"4c1n_khRgJf72-mUOgd0x"}
